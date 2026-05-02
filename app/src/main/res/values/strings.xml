@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Language Form</string>
+    <string name="bahasa">Language</string>
+    <string name="pilibahasa">Choose Language</string>
+    <string name="lokasi">Location</string>
+    <string name="jalan">Street</string>
+    <string name="kodePos">Zip Code</string>
+    <string name="negara">Country</string>
+
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string name="pemakai">User</string>
+    <string name="nama">Name</string>
+    <string name="telp">Telephone</string>
+    <string name="sandi">Password</string>
+    <string name="tglLahir">Birth Date</string>
+    <string name="ulang">Reset</string>
+    <string name="simpan">Save</string>
+</resources>
